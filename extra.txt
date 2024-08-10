@@ -1,0 +1,48 @@
+// const projects = [
+//   {
+//     name: "Redux Store - Ecommerce Appication",
+//     description:
+//       "Redux Store is a ecommercet application. The sole purpose of developing this applcation was to learn and implement few major concepts in ReactJS.",
+//     GHlink:
+//       "https://github.com/SinghHridyansh/Redux-Store---Ecommerce-Application",
+//     Dplink: "https://redux-store-ecom.netlify.app/login",
+//     image:
+//       "https://raw.githubusercontent.com/SinghHridyansh/Image-Hosting/main/Redux%20Store.png",
+//   },
+//   {
+//     name: "TaskSphere Connect - Dynamnic To-do",
+//     description:
+//       "The main purpose of developing this application was to learn few concepts in ReactJS. In the application the tasks are present in the form of cards that can be toggled when the user is done with the application.",
+//     GHlink: "https://github.com/SinghHridyansh/Dynamic_ticketing_app",
+//     Dplink: "https://tasksphere-connect.netlify.app/",
+//     image:
+//       "https://raw.githubusercontent.com/SinghHridyansh/Image-Hosting/main/TaskSphere.png",
+//   },
+//   {
+//     name: "Cuisine Quest",
+//     description:
+//       "Cuisine Quest is a basic recipe hunt application. The sole purpose of developing this applcation was to learn and implement few major concepts in ReactJS.",
+//     GHlink: "https://github.com/SinghHridyansh/Recipe-Search-Webapp",
+//     Dplink: "https://cuisine-quest-app.netlify.app/",
+//     image:
+//       "https://raw.githubusercontent.com/SinghHridyansh/Image-Hosting/main/Cuisine%20Quest.png",
+//   },
+//   {
+//     name: "Fake Social App",
+//     description: "Description of Project 4",
+//     GHlink: "https://github.com/SinghHridyansh/TNC-Relu-App",
+//     Dplink: "https://fake-social-app.netlify.app/",
+//     image:
+//       "https://raw.githubusercontent.com/SinghHridyansh/Image-Hosting/main/Fake%20Social%20App.png",
+//   },
+//   {
+//     name: "Docs Mini App",
+//     description:
+//       "I would like to explain this project as a Dummy Docs Management Application. The main purpose of developing this application was to learn the proper implementation of Tailwind CSS and Framer Motion Library.",
+//     GHlink: "https://github.com/SinghHridyansh/Docs-mini-app-Frontend",
+//     Dplink: "https://hridyansh-docs-mini-app.netlify.app/",
+//     image:
+//       "https://raw.githubusercontent.com/SinghHridyansh/Image-Hosting/main/Docs%20Mini.png",
+//   },
+//   // Add more projects as needed
+// ];
