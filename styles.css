@@ -563,8 +563,8 @@ textarea::placeholder {
     text-align: justify;
     color: rgb(140, 140, 140);
     line-height: 25px;
-    font-weight: 100;
-    font-size: 1.2rem;
+    font-weight: 500;
+    font-size: 1.35rem;
   }
   .timeline {
     position: relative;

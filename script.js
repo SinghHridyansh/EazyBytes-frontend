@@ -23,7 +23,7 @@ async function fetchProjects() {
       .map(
         (project) => `
         <div class="projects">
-          <a href="${project.Dplink}" target="_blank" class="project-link">
+          <a href="${project.DPlink}" target="_blank" class="project-link">
             <img src="${project.image}" alt="${project.name}" class="project-image" />
           </a>
           <div class="project-info">
